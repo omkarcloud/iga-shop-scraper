@@ -1,0 +1,42 @@
+{
+ "total": 1,
+ "items": [
+  {
+   "id": "0f2be77e-3b7a-4e0e-acc6-eaf640d5a1bc",
+   "status": "Active",
+   "type": "Regular",
+   "name": "IGA Local Grocer Fitzroy",
+   "addressLine1": "424 - 428 Brunswick Street",
+   "addressLine2": "",
+   "addressLine3": "",
+   "countyProvinceState": "VIC",
+   "postCode": "3065",
+   "city": "Fitzroy",
+   "country": "Australia",
+   "email": "igafitzroy@gmail.com",
+   "phone": "(03) 9419 5288",
+   "retailerStoreId": "41524",
+   "timeZone": "Australia/Melbourne",
+   "currency": "AUD",
+   "openingHours": "Monday to Thursday 7am-9pm, Friday 7am-10pm, Saturday 8am-10pm, Sunday  8am-9pm",
+   "location": {
+    "latitude": -37.79425,
+    "longitude": 144.97949
+   },
+   "languages": [
+    {
+     "isoCode": "en-AU",
+     "isDefault": true
+    }
+   ],
+   "siteId": "8c744d67-1ce2-4e4b-81d1-e29966f362a7",
+   "urls": [],
+   "categoryHierarchyId": "93c41c59-c564-4639-ae57-2cff46842aa0",
+   "shoppingModes": [
+    "planning",
+    "delivery",
+    "pickup"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1 @@
+{"statusCode":400,"message":"[GET] \"https://z2zelumxs4.execute-api.ap-southeast-2.amazonaws.com/altprod/api/storefront/stores/32600/promotions/products?take=2\": 400 Bad Request","data":"Shopping mode must be informed as a header (x-shopping-mode) for this method."}

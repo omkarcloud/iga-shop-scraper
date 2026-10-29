@@ -1,0 +1,10 @@
+services:
+  iga-shop-scraper:
+    build: .
+    restart: unless-stopped
+    ports:
+      - "8000:8000"
+    environment:
+      - PORT=8000
+      # Optional — IGA Shop answers a plain server IP, so leave this unset.
+      # - IGA_SHOP_PROXY=http://user:pass@host:port
